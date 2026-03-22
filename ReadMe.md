@@ -1,27 +1,79 @@
-# 💫 About Me:
-🏗️ I’m currently working on: Building and expanding Guidemap, a platform to provide free and premium educational content for students, as well as managing Techsaar, my web and IT solutions agency.<br><br>🤝 I’m looking to collaborate on: Projects in web development, call center solutions, and educational technology that aim to make a positive impact on businesses and learners.<br><br>👐 I’m looking for help with: Scaling EZDial, our innovative call center solution, and seeking feedback from businesses interested in optimizing their customer service operations.<br><br>🌱 I’m currently learning: Advanced backend development techniques and exploring emerging technologies to enhance user experience on web platforms.<br><br>💬 Ask me about: Web development, call center solutions, digital transformation, or how to start and grow a tech agency.<br><br>⚡ Fun fact: I started my journey with a role at OPTO Electronics under the Ministry of Defence, which gave me unique insights into server operations and networking.
+# Vansh Kumar ✦ Full Stack Developer & SaaS Architect
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=700&size=24&pause=1000&color=5227FF&center=true&vCenter=true&width=600&lines=Building+Systems+Businesses+Rely+On;SaaS+Architect+%26+Automation+Expert;Full+Stack+Developer" alt="Typing SVG" />
+</p>
 
-## 🌐 Socials:
-[![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/iamvanshkumar) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/iamvanshkumar) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/iamvanshkumar) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/techsaarcoin) 
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=iamvanshkumar&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=iamvanshkumar&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=iamvanshkumar&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=iamvanshkumar&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=iamvanshkumar&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+<p align="center">
+  <a href="https://vanshkumar.techsaar.co.in"><b>Portfolio</b></a> •
+  <a href="https://www.linkedin.com/in/iamvanshkumar/"><b>LinkedIn</b></a> •
+  <a href="mailto:vanshkumar.fl@gmail.com"><b>Email</b></a>
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=iamvanshkumar&icon=0&color=1)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### 💫 About Me
+
+I am a **Senior Full Stack Developer** specialized in architecting high-performance SaaS platforms and complex automation ecosystems. My focus is on developing scalable, data-driven systems that solve real-world business challenges.
+
+*   🏗️ **Currently Scaling:** [Guidemap](https://vanshkumar.techsaar.co.in), an advanced educational platform delivering high-value content to learners globally.
+*   🚀 **Core Focus:** Architecting multi-tenant SaaS applications, VOIP solutions, and enterprise-grade data pipelines.
+*   🤝 **Collaboration:** I'm open to high-impact projects in **Web Development**, **EdTech**, and **Call Center Automation**.
+*   👐 **Strategic Goal:** Scaling **EZDial**, an innovative VOIP auto-dialer and field management solution.
+*   🌱 **Learning Path:** Deep-diving into Advanced Distributed Systems and emerging UI/UX paradigms.
+*   ⚡ **Fun Fact:** My technical foundation was built at **OPTO Electronics (Ministry of Defence)**, where I mastered server operations and high-security networking.
+
+---
+
+### 🚀 Featured Projects
+
+| Project | Category | Description |
+| :--- | :--- | :--- |
+| **COUNTERIQ** | `SaaS` `Automation` | Enterprise SaaS for automated COUNTER R5.1 report harvesting via SUSHI APIs. |
+| **EZ Dial** | `Business` `VOIP` | High-efficiency VOIP Auto Dialer for call center optimization. |
+| **GuideMap** | `SaaS` `EdTech` | Comprehensive educational ecosystem for premium learning content. |
+| **Elsevier Harvestor** | `Enterprise` `Data` | Data ingestion pipeline for global research grants and funding data. |
+| **Notion Forge** | `SaaS` `AI` | AI-powered workspace generator bridging conceptual ideas and Notion execution. |
+| **TrackSaar** | `SaaS` `Tracking` | Advanced employee performance and location tracking ecosystem. |
+
+---
+
+### 💻 Technical Expertise
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Frontend-React%2019%20%7C%20Next.js%20%7C%20Tailwind%20CSS-5227FF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Backend-Node.js%20%7C%20Express%20%7C%20Python-5227FF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Database-MongoDB%20%7C%20PostgreSQL%20%7C%20SQL%20Server-5227FF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Infrastructure-AWS%20%7C%20Docker%20%7C%20VPC%20Networking-5227FF?style=for-the-badge" />
+</p>
+
+---
+
+### 📊 Performance Metrics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=iamvanshkumar&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D0D0D&title_color=5227FF&text_color=FFFFFF&icon_color=5227FF" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamvanshkumar&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D0D0D&title_color=5227FF&text_color=FFFFFF" alt="Top Languages" width="41%" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=iamvanshkumar&theme=tokyonight&no-bg=true&margin-w=15" alt="GitHub Trophies" />
+</p>
+
+---
+
+### 📈 Global Impact & Stats
+*   🏆 **98%** Client Satisfaction Rate
+*   🚀 **20+** Production-grade Systems Deployed
+*   ⚡ **12k+** Monthly Automated Reports Harvested (CounterIQ)
+*   🛠️ **40+** Manual Hours saved weekly per automation client
+
+---
+
+<p align="center">
+  <i>"I don't just build websites — I build systems businesses rely on."</i>
+</p>
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/generate?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
+</p>
